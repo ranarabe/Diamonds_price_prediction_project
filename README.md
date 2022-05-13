@@ -1,1 +1,1 @@
-# Diamonds_price_prediction_project
+# This project is for Kaggle competition on Diamonds price dataset.
